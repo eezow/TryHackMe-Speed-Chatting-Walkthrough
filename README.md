@@ -67,7 +67,7 @@ Refresh main page ONCE
 
 Result:
 
-Connection from target (10.48.160.130)
+Connection from target
 Initial shell as root (or www-data) at /opt/Speed_Chat
 
 NO NEED TO Stabilize shel
