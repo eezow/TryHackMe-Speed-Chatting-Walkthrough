@@ -59,9 +59,8 @@ Upload: IT VIA THAT UPLOAD BUTTON
 
 
 SETUP LISTENER Listener:
-Bashrlwrap nc -lvnp 4444
+rlwrap nc -lvnp 4444
 Trigger:
-
 Refresh main page ONCE 
 
 
